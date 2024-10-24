@@ -6,6 +6,10 @@
 
 Welcome to the **EcodeCamp Internships** repository! This collection showcases the projects developed during my internship at EcodeCamp, demonstrating practical skills and innovative solutions in web development.
 
+# 📄 EcodeCamp Internships Report
+
+📥 [Download the report](https://github.com/engrmumtazali0112/Digital_Empowerment_Pakistan_Internships/raw/main/Digital%20Empowerment%20Pakistan%20Internship%20Report.pdf)
+
 ## 🏢 About EcodeCamp
 
 EcodeCamp is a pioneering company in digital education and skill development. Our mission is to empower individuals through:
