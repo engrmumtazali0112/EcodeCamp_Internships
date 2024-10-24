@@ -8,7 +8,8 @@ Welcome to the **EcodeCamp Internships** repository! This collection showcases t
 
 # 📄 EcodeCamp Internships Report
 
-📥 [Download the report](https://github.com/engrmumtazali0112/Digital_Empowerment_Pakistan_Internships/raw/main/Digital%20Empowerment%20Pakistan%20Internship%20Report.pdf)
+📥 [Download the report](https://github.com/engrmumtazali0112/EcodeCamp_Internships/raw/main/EcodeCamp%20Internship%20Report.pdf)
+
 
 ## 🏢 About EcodeCamp
 
