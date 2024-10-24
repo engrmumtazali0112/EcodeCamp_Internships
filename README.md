@@ -85,15 +85,7 @@ A React-based todo list application for task management.
 - Understanding of version control with Git and GitHub
 - Exposure to agile development practices
 
-## 🌟 Project Highlights
 
-<table>
-  <tr>
-    <td align="center"><img src="https://github.com/engrmumtazali0112/EcodeCamp_Internships/raw/main/Robust-Multiple-Choice-Quiz-Game/screenshot.png" width="200px" alt="Quiz Game"/><br /><sub><b>Quiz Game</b></sub></td>
-    <td align="center"><img src="https://github.com/engrmumtazali0112/EcodeCamp_Internships/raw/main/simple-calculator/screenshot.png" width="200px" alt="Simple Calculator"/><br /><sub><b>Simple Calculator</b></sub></td>
-    <td align="center"><img src="https://github.com/engrmumtazali0112/EcodeCamp_Internships/raw/main/todo_lista_app/screenshot.png" width="200px" alt="Todo List App"/><br /><sub><b>Todo List App</b></sub></td>
-  </tr>
-</table>
 
 ## 🤝 Contribution
 
