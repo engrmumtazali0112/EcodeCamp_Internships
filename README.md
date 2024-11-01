@@ -6,9 +6,10 @@
 
 Welcome to the **EcodeCamp Internships** repository! This collection showcases the projects developed during my internship at EcodeCamp, demonstrating practical skills and innovative solutions in web development.
 
-# 📄 EcodeCamp Internships Report
+# 📄 CodeClause Internship Report
 
-📥 [Download the report](https://github.com/engrmumtazali0112/EcodeCamp_Internships/raw/main/EcodeCamp%20Internship%20Report.pdf)
+📥 [Download the report](https://github.com/engrmumtazali0112/Code_Clause_Internship_Artificial_Intelligence/raw/main/CodeClause%20Internship%20Report.pdf)
+
 
 
 ## 🏢 About EcodeCamp
