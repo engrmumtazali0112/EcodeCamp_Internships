@@ -6,17 +6,41 @@
 
 Welcome to the **EcodeCamp Internships** repository! This collection showcases the projects developed during my internship at EcodeCamp, demonstrating practical skills and innovative solutions in web development.
 
-# 📄 CodeClause Internship Report
+## 🎓 Internship Certification
 
-📥 [Download the report](https://github.com/engrmumtazali0112/Code_Clause_Internship_Artificial_Intelligence/raw/main/CodeClause%20Internship%20Report.pdf)
+<div align="center">
+  
+### 🏆 Python Development Internship Certificate
+
+I successfully completed a **virtual internship in Python Development** at EcodeCamp from September 15, 2024 to October 30, 2024, receiving excellent remarks for my showcased skills and valuable contributions.
+
+**Certificate ID:** `EC02PD011`
+
+<img src="https://github.com/engrmumtazali0112/EcodeCamp_Internships/blob/main/EcodeCampPythondev.jpg" alt="EcodeCamp Internship Certificate" width="800px" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
 
 
+*Certificate issued on November 25, 2024*
+
+---
+
+**Key Highlights:**
+- ✅ Completed comprehensive Python Development program
+- ✅ Demonstrated exceptional skills in project implementation
+- ✅ Made invaluable contributions to internship tasks
+- ✅ Received recognition for excellent performance
+
+</div>
+
+## 📄 Additional Resources
+
+📥 [Download CodeClause Internship Report](https://github.com/engrmumtazali0112/Code_Clause_Internship_Artificial_Intelligence/raw/main/CodeClause%20Internship%20Report.pdf)
 
 ## 🏢 About EcodeCamp
 
 EcodeCamp is a pioneering company in digital education and skill development. Our mission is to empower individuals through:
 
 - 💻 Innovative training programs in web development
+- 🐍 Comprehensive Python development courses
 - 📊 Cutting-edge courses in data science
 - 📱 Comprehensive digital marketing workshops
 
@@ -55,23 +79,24 @@ A React-based todo list application for task management.
 ## 🛠️ Technologies
 
 - **Frontend**: HTML5, CSS3, JavaScript, React
+- **Backend**: Python
 - **Version Control**: Git, GitHub
 - **Development Tools**: VS Code, Chrome DevTools
 
 ## 🚀 Getting Started
 
 1. Clone the repository:
-   ```
+   ```bash
    git clone https://github.com/engrmumtazali0112/EcodeCamp_Internships.git
    ```
 
 2. Navigate to a project folder:
-   ```
+   ```bash
    cd EcodeCamp_Internships/[project-folder]
    ```
 
 3. For React projects:
-   ```
+   ```bash
    npm install
    npm start
    ```
@@ -80,31 +105,32 @@ A React-based todo list application for task management.
 
 ## 📚 Learning Outcomes
 
-- Proficiency in frontend web development
-- Experience with React and state management
-- Skills in building responsive and interactive user interfaces
-- Understanding of version control with Git and GitHub
-- Exposure to agile development practices
+- ✨ Proficiency in Python development
+- 💻 Proficiency in frontend web development
+- ⚛️ Experience with React and state management
+- 🎨 Skills in building responsive and interactive user interfaces
+- 📝 Understanding of version control with Git and GitHub
+- 🤝 Exposure to agile development practices
+- 🏆 Recognition for excellent performance and contributions
 
-
+![EcodeCampPythondev](https://github.com/user-attachments/assets/1bb98474-bab3-43a6-a76b-d896811ff9bb)
 
 ## 🤝 Contribution
 
 Feel free to explore the projects and contribute feedback or improvements. Your insights are valuable in enhancing these projects further!
 
-## 📬 Contact
+## 📬 Contact EcodeCamp
 
 For any queries regarding the internship program or projects:
 
-📧 Email: [contact@ecocamp.com](mailto:contact@ecocamp.com)
+📧 Email: [contact@ecocamp.com](mailto:contact@ecocamp.com)  
 🌐 Website: [www.ecocamp.com](https://www.ecocamp.com)
 
 ---
 
-
 <p align="center">Empowering Pakistan's digital future, one project at a time. 🇵🇰</p>
-## 📞 Contact
 
+## 📞 Contact Me
 
 <p align="center">
   <a href="mailto:engrmumtazali01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -116,3 +142,13 @@ For any queries regarding the internship program or projects:
 </p>
 
 <p align="center">Made with ❤️ by Mumtaz Ali</p>
+
+---
+
+<div align="center">
+
+### ⭐ If you find this repository helpful, please consider giving it a star!
+
+[![GitHub followers](https://img.shields.io/github/followers/engrmumtazali0112?style=social)](https://github.com/engrmumtazali0112)
+
+</div>
